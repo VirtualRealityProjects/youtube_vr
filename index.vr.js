@@ -6,8 +6,13 @@ import {
   Pano,
   Text,
   View,
-  VrButton
+  VrButton, 
+  Video
 } from 'react-vr';
+
+import Videos from './containers/Videos';
+
+const YTSearchResult = require('./fakeYTSearchResults');
 
 export default class demo_youtube extends React.Component {
 
@@ -17,7 +22,8 @@ export default class demo_youtube extends React.Component {
 			isFocus: false,
 			isEnter: false,
 			text: '',
-      isButtonEnter: false
+      isButtonEnter: false,
+      YTSearchResult
 		}
 		this.handleChange = this.handleChange.bind(this);
 		this.search = this.search.bind(this);
@@ -102,6 +108,8 @@ export default class demo_youtube extends React.Component {
             </Text>
           </VrButton>	
         </View>
+
+        <Videos {...YTSearchResult}/>
       </View>
     );
   }

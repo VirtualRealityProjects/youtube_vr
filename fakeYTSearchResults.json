@@ -1,0 +1,238 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": 111,
+  "nextPageToken": "1000000",
+  "prevPageToken": "1000000",
+  "regionCode": "044444",
+  "pageInfo": {
+    "totalResults": 123,
+    "resultsPerPage": 22
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": 0,
+      "id": {
+        "kind": "1111",
+        "videoId": "1111",
+        "channelId": "111",
+        "playlistId": "1111"
+      },
+      "snippet": {
+        "publishedAt": null,
+        "channelId": "UCWPvOqDoVeEczPR8HCm-JzA",
+        "title": "Disiz - Autre espèce",
+        "description": "Blablabla la description",
+        "thumbnails": {
+          "default": {
+            "url": "disiz.jpg",
+            "width": 1,
+            "height": 1
+          }
+        },
+        "channelTitle": "DisizVEVO",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": 0,
+      "id": {
+        "kind": "1111",
+        "videoId": "1111",
+        "channelId": "111",
+        "playlistId": "1111"
+      },
+      "snippet": {
+        "publishedAt": null,
+        "channelId": "UCWPvOqDoVeEczPR8HCm-JzA",
+        "title": "Disiz - Autre espèce",
+        "description": "Blablabla la description",
+        "thumbnails": {
+          "default": {
+            "url": "disiz.jpg",
+            "width": 1,
+            "height": 1
+          }
+        },
+        "channelTitle": "DisizVEVO",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": 0,
+      "id": {
+        "kind": "1111",
+        "videoId": "1111",
+        "channelId": "111",
+        "playlistId": "1111"
+      },
+      "snippet": {
+        "publishedAt": null,
+        "channelId": "UCWPvOqDoVeEczPR8HCm-JzA",
+        "title": "Disiz - Autre espèce",
+        "description": "Blablabla la description",
+        "thumbnails": {
+          "default": {
+            "url": "disiz.jpg",
+            "width": 1,
+            "height": 1
+          }
+        },
+        "channelTitle": "DisizVEVO",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": 0,
+      "id": {
+        "kind": "1111",
+        "videoId": "1111",
+        "channelId": "111",
+        "playlistId": "1111"
+      },
+      "snippet": {
+        "publishedAt": null,
+        "channelId": "UCWPvOqDoVeEczPR8HCm-JzA",
+        "title": "Disiz - Autre espèce",
+        "description": "Blablabla la description",
+        "thumbnails": {
+          "default": {
+            "url": "disiz.jpg",
+            "width": 1,
+            "height": 1
+          }
+        },
+        "channelTitle": "DisizVEVO",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": 0,
+      "id": {
+        "kind": "1111",
+        "videoId": "1111",
+        "channelId": "111",
+        "playlistId": "1111"
+      },
+      "snippet": {
+        "publishedAt": null,
+        "channelId": "UCWPvOqDoVeEczPR8HCm-JzA",
+        "title": "Disiz - Autre espèce",
+        "description": "Blablabla la description",
+        "thumbnails": {
+          "default": {
+            "url": "disiz.jpg",
+            "width": 1,
+            "height": 1
+          }
+        },
+        "channelTitle": "DisizVEVO",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": 0,
+      "id": {
+        "kind": "1111",
+        "videoId": "1111",
+        "channelId": "111",
+        "playlistId": "1111"
+      },
+      "snippet": {
+        "publishedAt": null,
+        "channelId": "UCWPvOqDoVeEczPR8HCm-JzA",
+        "title": "Disiz - Autre espèce",
+        "description": "Blablabla la description",
+        "thumbnails": {
+          "default": {
+            "url": "disiz.jpg",
+            "width": 1,
+            "height": 1
+          }
+        },
+        "channelTitle": "DisizVEVO",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": 0,
+      "id": {
+        "kind": "1111",
+        "videoId": "1111",
+        "channelId": "111",
+        "playlistId": "1111"
+      },
+      "snippet": {
+        "publishedAt": null,
+        "channelId": "UCWPvOqDoVeEczPR8HCm-JzA",
+        "title": "Disiz - Autre espèce",
+        "description": "Blablabla la description",
+        "thumbnails": {
+          "default": {
+            "url": "disiz.jpg",
+            "width": 1,
+            "height": 1
+          }
+        },
+        "channelTitle": "DisizVEVO",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": 0,
+      "id": {
+        "kind": "1111",
+        "videoId": "1111",
+        "channelId": "111",
+        "playlistId": "1111"
+      },
+      "snippet": {
+        "publishedAt": null,
+        "channelId": "UCWPvOqDoVeEczPR8HCm-JzA",
+        "title": "Disiz - Autre espèce",
+        "description": "Blablabla la description",
+        "thumbnails": {
+          "default": {
+            "url": "disiz.jpg",
+            "width": 1,
+            "height": 1
+          }
+        },
+        "channelTitle": "DisizVEVO",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": 0,
+      "id": {
+        "kind": "1111",
+        "videoId": "1111",
+        "channelId": "111",
+        "playlistId": "1111"
+      },
+      "snippet": {
+        "publishedAt": null,
+        "channelId": "UCWPvOqDoVeEczPR8HCm-JzA",
+        "title": "Disiz - Autre espèce",
+        "description": "Blablabla la description",
+        "thumbnails": {
+          "default": {
+            "url": "disiz.jpg",
+            "width": 1,
+            "height": 1
+          }
+        },
+        "channelTitle": "DisizVEVO",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ]
+}
